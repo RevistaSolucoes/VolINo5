@@ -1,0 +1,57 @@
+
+\newenvironment{pregunta}{\vspace{10pt}\noindent \bfseries \Large}{\par\vspace{5pt}}
+
+\cappar Este verano se ha celebrado la \textbf{International Mathematics Competition for University Students} (Competición Internacional de Matemáticas para Estudiantes Universitarios) en la ciudad de Blagoevgrad, Bulgaria. Este evento, que reúne a más de 300 universitarios de todo el mundo, cuenta ya con 21 ediciones en su historia.
+
+\vspace{10pt}
+Raúl Alegre, colaborador en nuestra revista, ha tenido la suerte de poder disfrutar de esta experiencia para compartirla con todos nosotros.
+
+\begin{pregunta}
+  ¿En qué consiste esta olimpiada?
+\end{pregunta}
+Si nos restringimos al aspecto competitivo, se trata de una competición muy tradicional. Se reúne a todos los participantes para que hagan dos exámenes, cada uno con 5 problemas (cuya dificultad se va incrementando), pertenecientes a los campos de análisis, álgebra, geometría y combinatoria. Como corresponde a una competición de alto nivel, se necesita una combinación de sólidos conocimientos matemáticos con grandes dosis de creatividad, que sólo está al alcance de los mejores (entre los que por supuesto, no me incluyo).
+
+Ahora bien, la experiencia vivida va mucho más allá de los exámenes. He tenido la oportunidad de visitar durante una semana un país como Bulgaria, lo que me ha permitido conocer brevemente su cultura, su gastronomía, y su vida en cierto sentido.
+
+\begin{pregunta}
+  ¿Qué tal te fue?
+\end{pregunta}
+¡Mejor de lo esperado! en la clasificación quedé un poquito por encima de mitad de tabla. En general tanto yo como mis compañeros estamos muy satisfechos, pues hemos logrado traer a casa dos medallas y dos menciones de honor.
+
+
+\begin{pregunta}
+  ¿Qué es lo que más te ha gustado?
+\end{pregunta}
+Creo que la convivencia ha sido el aspecto diferencial. Hemos estado alojados más de 300 estudiantes en una residencia, lo que nos ha dado la oportunidad de conocer a gente de cualquier rincón del mundo, desde Estados Unidos hasta China, pasando por Sudáfrica. Es evidente el enriquecimiento personal que esto puede suponer para un joven estudiante como yo.
+
+Desde el punto de vista académico, la convivencia también es esencial. Esto se debe a que mi equipo viene a la competición consciente de la dificultad que conlleva, y centrados en tener una actuación digna. La otra cara de la moneda son los alumnos que vienen preparados para ganar, probablemente los mejores matemáticos del mundo\footnote{Entre los participantes está Lisa Sauermann, la mejor participante de la historia de la IMO (International Mathematics Olympiad) \url{http://es.wikipedia.org/wiki/Lisa_Sauermann}} de nuestra generación. Ante esta situación, todo lo que podemos hacer es aprovechar que podemos pasar unos días con ellos para aprender lo máximo posible.
+
+
+\begin{pregunta}
+  ¿Hay algo que te gustaría cambiar?
+\end{pregunta}
+Muy pocas cosas, a decir verdad. La olimpiada ahora mismo es una experiencia inolvidable para todo aquel que tenga la oportunidad de ir.
+
+Sin embargo, sí que me gustaría mencionar el papel de las mujeres matemáticas en este tipo de eventos. Por alguna razón, estas competiciones están históricamente más asociadas a los hombres, pero poco a poco se observa que esto empieza a cambiar. He tenido la oportunidad de conocer a matemáticas brillantes, que merecen tanto o más que yo poder disfrutar de esta experiencia. Me gustaría que con el paso de los años, la presencia de mujeres en estos eventos sea algo a lo que nos hayamos acostumbrado.
+
+
+\begin{pregunta}
+  Esta revista habla de matemáticas ¿quieres retar a los lectores con algún problema?
+\end{pregunta}
+¡Será un placer! Voy a poner uno de esos que requieren cierta dosis de creatividad. Si tenemos $f(x)=\frac{\sin x}{x}$ definida para $x>0$, demostrar que
+\begin{equation*}
+  |f^{(n)}(x)| < \frac{1}{n+1}\qquad \forall x>0
+\end{equation*}
+donde $f^{(n)}$ es la derivada n-ésima.
+
+\vspace{1cm}
+\centering
+\includegraphics[scale=0.8]{pubmm.png}
+\newpage
+
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: "solucionenaccion"
+%%% End: 
+
+

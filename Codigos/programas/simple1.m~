@@ -1,0 +1,3 @@
+function simple1()
+printf("Imaginação leva-nos a qualquer lado.\n");
+endfunction
